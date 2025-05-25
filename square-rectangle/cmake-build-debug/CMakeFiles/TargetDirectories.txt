@@ -1,0 +1,3 @@
+C:/Users/manga/CLionProjects/square-rectangle/cmake-build-debug/CMakeFiles/square_rectangle.dir
+C:/Users/manga/CLionProjects/square-rectangle/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/manga/CLionProjects/square-rectangle/cmake-build-debug/CMakeFiles/rebuild_cache.dir
